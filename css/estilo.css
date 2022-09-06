@@ -1,0 +1,11 @@
+#galeria .col-lg-4{
+	margin: 0 !important;
+	padding: 25;
+}
+#galeria img{
+	width: 100%;
+	weight: 150px;
+}
+#galeria img:hover{
+	border: 5px solid #f7f7f7;
+}
